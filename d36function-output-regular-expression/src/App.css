@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+ 
+  
+}
+
+form{
+  width: 60%;
+  display: inline-block;
+  background-color:rgb(197, 108, 215);
+  border-radius: 10px;
+}
+label{
+display: inline-block;
+ width: 150px;
+ height: 25px;
+ margin: 5px;
+ font-size: 1.4rem;
+}
+input{
+  width: 200px;
+  height: 25px;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  
+  
+}
+div{
+  margin: 20px;
+}
+.result{
+  width: 15%;
+  height: 27px;
+  display: inline-block;
+  margin-left: 15px; 
+  border-radius: 10px ;
+
+}
+button{
+  width: 120px;
+  height: 28px;
+  outline: none;
+  border-radius: 6px;
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+#total{
+  font-size: 1.5rem;
+}
